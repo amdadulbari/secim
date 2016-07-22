@@ -3,7 +3,7 @@
     <string name="about_open_source_xmpp_client">open source XMPP client</string>
 
     <string name="about_header_about">About</string>
-    <string name="about_text_about">myChatbd is developed by <a href="http://www.amdadulbari.com">Md.Amdadul Bari Imad.</a>This App is based on Xabber.</string>
+    <string name="about_text_about">Sicim is developed by <a href="http://www.amdadulbari.com">Md.Amdadul Bari Imad.</a>This App is based on Xabber.</string>
 
     <string name="about_header_xmpp">XMPP protocol</string>
     <string name="about_text_xmpp">Extensible Messaging and Presence Protocol (XMPP) is a communications protocol for message-oriented middleware based on XML (Extensible Markup Language). It enables the near-real-time exchange of structured yet extensible data between any two or more network entities. The protocol was originally named Jabber, and was developed by the Jabber open-source community in 1999 for near real-time instant messaging (IM),presence information, and contact list maintenance.</string>
